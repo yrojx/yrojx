@@ -11,7 +11,7 @@
   <img align="left" alt="Yossan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[📝 Resume](https://drive.google.com/file/d/1Ahne_KH_Okz9MEShqIjzGgYJquTpDGjx/view)
+[📝 Resume](https://drive.google.com/file/d/1Wg6e5ZApIjPfdtHXLiYjgOLc2QhFsCUK/view)
 <br />
 
 For now, I'm at the intersection of tech 💻 and design 🎨. I love to create ✨beautiful UI design✨ and make it happen to bring joy to people that use it. In doing my code, I always try to find good implementation to make sure my code can served well 🧑🏻‍🍳.
